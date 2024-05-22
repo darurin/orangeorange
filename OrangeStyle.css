@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(193, 238, 236);
+}
+#ctitle{
+    text-align: center;
+    font-family: Rockwell;
+    color: rgb(255, 155, 41);
+}
+#subtitle{
+    text-align: center;
+    font-family: Berlin Sans FB;
+    font-weight: lighter;
+}
+#orang{
+    font-family: Cooper Black;
+    font-weight: lighter;
+}
+#desc{
+    font-family: Berlin Sans FB;
+    font-weight: lighter;
+    font-size: large;
+}
+.columns{
+    column-count: 2;
+    column-gap: 1px;
+}
+.columnitem{
+    break-inside: avoid;
+}
